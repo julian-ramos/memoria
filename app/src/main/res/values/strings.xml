@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">memoria</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="tookMedicine">
+        <item>Not feeling well</item>
+        <item>Tremors </item>
+        <item>It is time </item>
+    </string-array>
+
+</resources>
